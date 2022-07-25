@@ -1,5 +1,6 @@
 # Computa-o-Paralela---5-semestre
--Projeto desenvolvido ao longo do semestre com a principal finalidade de implementar o calculo de Taylor , em busca de encontrar o melhor speedup
+- Projeto desenvolvido ao longo do semestre com a principal finalidade de implementar o calculo de Taylor , em busca de encontrar o melhor speedup
+
 #Projeto Tartaruga
 -Leonardo Santos da Rocha | 32092261
 -Vitor de Sousa Uema | 32028555
