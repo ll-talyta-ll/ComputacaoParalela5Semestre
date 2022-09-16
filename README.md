@@ -1,4 +1,4 @@
-# ComputacaoParalela5Semestre
+# Computacao Paralela 5 Semestre
 - Projeto desenvolvido ao longo do semestre com a principal finalidade de implementar o calculo de Taylor , em busca de encontrar o melhor speedup
 
 #Projeto Tartaruga
